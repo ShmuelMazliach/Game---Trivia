@@ -1,0 +1,74 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "answers": ["Paris", "London", "Berlin", "Madrid"],
+    "correct_answer": "Paris",
+    "category": "Geography",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who wrote 'To Kill a Mockingbird'?",
+    "answers": ["Harper Lee", "Mark Twain", "Ernest Hemingway", "F. Scott Fitzgerald"],
+    "correct_answer": "Harper Lee",
+    "category": "Literature",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the largest planet in our Solar System?",
+    "answers": ["Earth", "Mars", "Jupiter", "Saturn"],
+    "correct_answer": "Jupiter",
+    "category": "Science",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "answers": ["Leonardo da Vinci", "Pablo Picasso", "Vincent van Gogh", "Claude Monet"],
+    "correct_answer": "Leonardo da Vinci",
+    "category": "Art",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the square root of 64?",
+    "answers": ["6", "7", "8", "9"],
+    "correct_answer": "8",
+    "category": "Mathematics",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In which year did the Titanic sink?",
+    "answers": ["1910", "1912", "1914", "1916"],
+    "correct_answer": "1912",
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the chemical symbol for water?",
+    "answers": ["H2O", "CO2", "O2", "HO"],
+    "correct_answer": "H2O",
+    "category": "Science",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who is the author of 'Harry Potter' series?",
+    "answers": ["J.R.R. Tolkien", "George R.R. Martin", "J.K. Rowling", "C.S. Lewis"],
+    "correct_answer": "J.K. Rowling",
+    "category": "Literature",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the smallest prime number?",
+    "answers": ["0", "1", "2", "3"],
+    "correct_answer": "2",
+    "category": "Mathematics",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which element has the atomic number 1?",
+    "answers": ["Oxygen", "Carbon", "Hydrogen", "Helium"],
+    "correct_answer": "Hydrogen",
+    "category": "Science",
+    "difficulty": "easy"
+  }
+]
+
+
